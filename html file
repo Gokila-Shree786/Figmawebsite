@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Title</title>
+  <link rel="stylesheet" href="googlehome.css">
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Bootstrap CSS v5.2.1 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+
+</head>
+
+<body>
+  <header>
+    <div class="navbar">
+        <img src="https://png.pngtree.com/png-vector/20220525/ourmid/pngtree-review-us-user-rating-concept-png-image_4731013.png" alt="logo" class="logo" />
+        <ul>
+            <li><a href="#">How it works</a></li>
+            <li><a href="#">Pricing</a></li>
+            <li><a href="#">Why it’s important</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><button>Login</button>
+                <button>Signup</button></li>
+        </ul>
+        
+    </div>
+  </header>
+  <main>
+    <div class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="card" class="box">
+                        <div class="card-body">
+                            <h1>Stop wasting time</h1>
+                            <h2>in meetings</h2>
+                            <p>Boost efficiency, save time & money 
+                                with post meeting surveys.</p>
+                                <button>GET STARTED</button>
+                                <button>Sign up with Google</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="card" class="box">
+                        <div class="card-body">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqr2ObHKRlea0ipbukCCwUtJDuuWswi1Ikw&usqp=CAU.png" alt="img" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row text-center mt-5">
+                <div class="col-lg-12">
+                    <h1>How it works?</h1>
+                </div>
+            </div>
+            <div class="row mt-5">
+                    <div class="col-lg-4 text-center">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWo9wvKtXeQj0a4cjudWmasHZbewJsBj4AUQ&usqp=CAU.png" class="note">
+                                <h3>Click Google integration</h3>
+                                <p>Simply log into your google account,<br>
+                                    then seamlessly integrate and<br>
+                                    mirror your planned meetings.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDfBviSz5_9EVXUAq-GyDf_knj3VfkSJiag&usqp=CAU.png" class="note" />
+                                <h3>Customization</h3>
+                                <p>Whatever the goals of your team<br>create a survey to better help you<br>understand the minds of those involved. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 text-center">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5eKFqGWkzdfGo0aZnp4kIHmq77P2zPgagtg&usqp=CAU.png" class="note" />
+                                <h3>Automation</h3>
+                                <p>Automatically triggered emails<br>
+                                    obtain survey feedback.Wait for meeting<br>to be cleanly organized in your dashboard.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row text-center">
+                    <div class="col-lg-12 mt-5">
+                        <h1>Why it’s important?</h1>
+                    </div>
+                </div>
+                <div  class="row text-center">
+                    <div class="col-lg-12 mt-5">
+                        <p>How many hours are you and your team wasting in meetings that aren’t adding to your productivity?
+                            In a 2017 survey of office workers by the Harvard Business Review, key findings brought to light how useless meetings can actually be.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h2>"<br>62% felt</h2>
+                                <p>that meetings take time
+                                    away from team bonding
+                                    opportunities </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <h2>"<br>64% felt</h2>
+                                <p>that meetings jeapordize
+                                    deep thought processes</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_WziFz5ZeMXc9IiaCUvpvqUHmJbaSVgCQ-gG2aW7ydqUku2kUeI44JqAlx4yUH4Kz7wM&usqp=CAU.png" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row text-center">
+                        <div class="col-lg-12">
+                            <p>Feeling like there aren’t enough hours in the day is a common problem faced by many leaders in this world.<br><b>Try post meeting surveys now and avoid wasting time.</b></p>
+                            <button>Sign up Today</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="row text-center mt-5">
+                    <div class="col-lg-12">
+                        <h1>Customizable plans for every company</h1>
+                    </div>
+                </div>
+                <div class="row text-center mt-5">
+                    <div class="col-lg-12">
+                        <p>With our scalable packages, you can pay for what you need and leave out what you don’t. We will grow with you.<br><b>Figure out what package is best for you</b></p>
+                    </div>
+                </div>
+                <div class="row text-center">
+                    <div class="col-lg-3 justify-content-center">
+                        <div class="card">
+                            <div class="card body">
+                                <h1>FREE</h1>
+                                <h1>0</h1>
+                                <ul>
+                                    <li>1 user 1 connected calender</li>
+                                    <li>Up to 12 responses</li>
+                                    <li>Up to 3 survey results achieved</li>
+                                    <li>Knowledge base</li>
+                                    <button>GET FREE</button>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 justify-content-center" class="new">
+                        <div class="card" class="new">
+                            <div class="card body">
+                                <h1>Personal</h1>
+                                <h1>5</h1>
+                                <ul>
+                                    <button>Monthly</button>
+                                    <button>Annually</button>
+                                    <li>1 user upto 2 connection calender</li>
+                                    <li>Up to 50 responses</li>
+                                    <li>Up to 10 survey results achieved</li>
+                                    <li>Knowledge base</li>
+                                    <li>...</li>
+                                    <button></button>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 justify-content-center">
+                        <div class="card">
+                            <div class="card body">
+                                <h1>Team</h1>
+                                <h1>10</h1>
+                                <ul>
+                                    <button>Monthly</button>
+                                    <button>Annually</button>
+                                    <li>Per user in comapny domain with single calender integrations</li>
+                                    <li>Unlimited responses</li>
+                                    <li>Unlimited survey results</li>
+                                    <li>Priority email and chat</li>
+                                    <li>...</li>
+                                    <button>GET TEAM</button>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-lg-12">
+                        <h1>About Us</h1>
+                    </div>
+                </div>
+                <div class="row mt-5">
+                    <div class="col-lg-9">
+                        <p>Picture this….you’re in your weekly meeting and you ask a question. 
+                            No one responds. Whether they’re zoned out or are responding to emails or chatting
+                            on slack, it can feel defeating. </p><br><p>In order to have an epic meeting, you need five parts:
+                            </p><br>
+                            <li>Set a cadence for your team meetings</li>
+                            <li>Have a clear meeting objective and agenda</li>
+                            <li>Start on time and end on time</li>
+                            <li> Have the right attendees in the room</li>
+                            <li> Have clear action items [who, what, when] at the end of the meeting</li>
+                    </div>
+                    <div class="col-lg-3 mt-5 text-center">
+                        <img src="https://png.pngtree.com/png-vector/20220525/ourmid/pngtree-review-us-user-rating-concept-png-image_4731013.png" width="100px"/>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-5 " class="boat">
+                <div class="col-lg-6 mt-5">
+                    <h1>Send out your first<br>
+                        Rate It today!</h1>
+                    <button>Try for Free</button>
+                </div>
+                <div class="col-lg-6">
+                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8F45isU1kOtBJkuBa41Sl4v1GRIuKNTKwMw&usqp=CAU.png" width="100%" />
+                </div>
+            </div>
+            <div class="row " class="word">
+                <div class="col-lg-4">
+                    <h1>We all know<br>that time is<br>money...<br>
+                        so stop<br>wasting time,<br>and save<br>money with<br>Rate It!</h1>
+                </div>
+                <div class="col-lg-4 mt-5>
+                    <label for="fname">First Name</label>
+                    <input type="text" id="fname" name="firstname"><br>
+                    <label for="mail">MAIL ID</label>
+                    <input type="mail" id="lname" name="mail"><br>
+                    <label for="message">Message</label>
+                    <input type="text">
+                </div>
+                <div class="col-lg-4">
+                    <label for="lname">Last Name</label>
+                    <input type="text" id="fname" name="lastname"><br>
+                    <label for="phone">Phone NO</label>
+                    <input type="number" id="lname" name="phone"><br>
+                    <button>Send Message</button>
+                </div>
+            </div>
+            <div class="row mt-5" class="footer">
+                <div class="col-lg-4">
+                    <h3>Need help with<br>
+                        anything?</h3>
+                        <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png"  width="26.79068946838379px";
+                        height="26.79068946838379px"; />
+                        <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-z5dvl47c.png"  width="26.79068946838379px";
+                        height="26.79068946838379px"; />
+                </div>
+                <div class="col-lg-2">
+                    <li><a href="#">How it works</a></li>
+                <li><a href="#">Pricing</a></li>
+                <li><a href="#">Why it’s important</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact</a></li>
+                </div>
+                <div class="col-lg-2">
+                    <li><a href="#">company</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Career</a></li>
+                </div>
+                <div class="col-lg-2">
+                    <li><a href="#">Legal</a></li>
+                    <li><a href="#">Terms & Conditions</a></li>
+                    <li><a href="#">Privacy & policy</a></li>
+                    <li><a href="#">Contact</a></li>
+                </div>
+                <div class="col-lg-2">
+                    <li><a href="#">Help</a></li>
+                    <li><a href="#">FAQ</a></li>
+                </div>
+            </div>
+        </div>
+        
+  </main>
+  <footer>
+    <!-- place footer here -->
+  </footer>
+  <!-- Bootstrap JavaScript Libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
+    integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js"
+    integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous">
+  </script>
+</body>
+
+</html>
