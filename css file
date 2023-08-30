@@ -1,0 +1,62 @@
+.navbar {
+    width: 90%;
+    margin: auto;
+    padding: 25px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 100px;
+    cursor: pointer;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 30px;
+    position: relative;
+    margin-bottom: 120px;
+    color: black;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.box {
+    border: none;
+}
+
+.note {
+    width: 52px;
+    height: 52px;
+    top: 1012px;
+    left: 245px;
+    border: 5px;
+}
+
+.p {
+    width: 281px;
+    height: 76px;
+    top: 1155px;
+    left: 130px
+
+}
+
+.new {
+    background-color: #1F64FF;
+    color: #1F64FF;
+}
+.boat {
+    background: #F5F6FA;
+    background-color: aqua;
+}
+
+.footer {
+    color: blue;
+    background-color: blue;
+}
+
+.word {
+    background-color: blue;
+}
