@@ -4,13 +4,9 @@
 <head>
   <title>Title</title>
   <link rel="stylesheet" href="googlehome.css">
-  <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <!-- Bootstrap CSS v5.2.1 -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
-    integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
 </head>
 
@@ -24,8 +20,8 @@
             <li><a href="#">Why it’s important</a></li>
             <li><a href="#">About Us</a></li>
             <li><a href="#">Contact</a></li>
-            <li><button>Login</button>
-                <button>Signup</button></li>
+            <li><button class="btn-2 text-nowrap">Login</button>
+                <button class="btn-1 text-nowrap">Signup</button></li>
         </ul>
         
     </div>
@@ -33,16 +29,16 @@
   <main>
     <div class="container-fluid">
         <div class="container">
-            <div class="row">
+            <div class="row" class="btn">
                 <div class="col-lg-6">
-                    <div class="card" class="box">
+                    <div class="card">
                         <div class="card-body">
                             <h1>Stop wasting time</h1>
                             <h2>in meetings</h2>
                             <p>Boost efficiency, save time & money 
                                 with post meeting surveys.</p>
-                                <button>GET STARTED</button>
-                                <button>Sign up with Google</button>
+                                <button class="btn-1 text-nowrap">GET STARTED</button>
+                                <button class="btn-2 text-nowrap">Sign up with Google</button>
                         </div>
                     </div>
                 </div>
@@ -129,10 +125,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row text-center">
+                    <div class="row text-center" class="btn">
                         <div class="col-lg-12">
                             <p>Feeling like there aren’t enough hours in the day is a common problem faced by many leaders in this world.<br><b>Try post meeting surveys now and avoid wasting time.</b></p>
-                            <button>Sign up Today</button>
+                            <button class="btn-1 text-nowrap">Sign up Today</button>
                         </div>
                     </div>
                 </div>
@@ -147,7 +143,7 @@
                     </div>
                 </div>
                 <div class="row text-center">
-                    <div class="col-lg-3 justify-content-center">
+                    <div class="col-lg-3 justify-content-center user">
                         <div class="card">
                             <div class="card body">
                                 <h1>FREE</h1>
@@ -157,19 +153,19 @@
                                     <li>Up to 12 responses</li>
                                     <li>Up to 3 survey results achieved</li>
                                     <li>Knowledge base</li>
-                                    <button>GET FREE</button>
+                                    <button class="btn-1 text-nowrap">GET FREE</button>
                                 </ul>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-6 justify-content-center" class="new">
+                    <div class="col-lg-6 justify-content-center personal-section">
                         <div class="card" class="new">
                             <div class="card body">
                                 <h1>Personal</h1>
                                 <h1>5</h1>
                                 <ul>
-                                    <button>Monthly</button>
-                                    <button>Annually</button>
+                                    <button class="btn-1 text-nowrap">Monthly</button>
+                                    <button class="btn-1 text-nowrap">Annually</button>
                                     <li>1 user upto 2 connection calender</li>
                                     <li>Up to 50 responses</li>
                                     <li>Up to 10 survey results achieved</li>
@@ -180,20 +176,20 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 justify-content-center">
+                    <div class="col-lg-3 justify-content-center user">
                         <div class="card">
                             <div class="card body">
                                 <h1>Team</h1>
                                 <h1>10</h1>
                                 <ul>
-                                    <button>Monthly</button>
-                                    <button>Annually</button>
+                                    <button class="btn-1 text-nowrap">Monthly</button>
+                                    <button class="btn-1 text-nowrap">Annually</button>
                                     <li>Per user in comapny domain with single calender integrations</li>
                                     <li>Unlimited responses</li>
                                     <li>Unlimited survey results</li>
                                     <li>Priority email and chat</li>
                                     <li>...</li>
-                                    <button>GET TEAM</button>
+                                    <button class="btn-1 text-nowrap">GET TEAM</button>
                                 </ul>
                             </div>
                         </div>
@@ -216,7 +212,7 @@
                             <li> Have the right attendees in the room</li>
                             <li> Have clear action items [who, what, when] at the end of the meeting</li>
                     </div>
-                    <div class="col-lg-3 mt-5 text-center">
+                    <div class="col-lg-3 mt-5 text-center" class="btn">
                         <img src="https://png.pngtree.com/png-vector/20220525/ourmid/pngtree-review-us-user-rating-concept-png-image_4731013.png" width="100px"/>
                     </div>
                 </div>
@@ -225,35 +221,37 @@
                 <div class="col-lg-6 mt-5">
                     <h1>Send out your first<br>
                         Rate It today!</h1>
-                    <button>Try for Free</button>
+                    <button class="btn-1 text-nowrap">Try for Free</button>
                 </div>
-                <div class="col-lg-6">
-                    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8F45isU1kOtBJkuBa41Sl4v1GRIuKNTKwMw&usqp=CAU.png" width="100%" />
+                <div class="col-lg-6 ">
+                    <img src="https://www.nicepng.com/png/detail/93-932300_circle-half-half-blue-circle.png" width="100%" height="250px"/>
                 </div>
             </div>
-            <div class="row " class="word">
-                <div class="col-lg-4">
-                    <h1>We all know<br>that time is<br>money...<br>
+            <div class="row mt-5">
+                <div class="col-lg-4 text-center">
+                    <h1 class="box">We all know<br>that time is<br>money...<br>
                         so stop<br>wasting time,<br>and save<br>money with<br>Rate It!</h1>
                 </div>
-                <div class="col-lg-4 mt-5>
+                <div class="col-lg-4 form">
                     <label for="fname">First Name</label>
-                    <input type="text" id="fname" name="firstname"><br>
+                    <input type="text" class="form-control-md form-control" id="fname" name="firstname"><br>
                     <label for="mail">MAIL ID</label>
-                    <input type="mail" id="lname" name="mail"><br>
+                    <input type="mail" class="form-control-md form-control"  id="lname" name="mail"><br>
                     <label for="message">Message</label>
-                    <input type="text">
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>
                 <div class="col-lg-4">
                     <label for="lname">Last Name</label>
-                    <input type="text" id="fname" name="lastname"><br>
+                    <input type="text"  class="form-control-md form-control" id="fname" name="lastname"><br>
                     <label for="phone">Phone NO</label>
-                    <input type="number" id="lname" name="phone"><br>
-                    <button>Send Message</button>
+                    <input type="number"  class="form-control-md form-control" id="lname" name="phone"><br>
+                <button class="btn-1 text-nowrap">Send Message</button>
+
                 </div>
+
             </div>
-            <div class="row mt-5" class="footer">
-                <div class="col-lg-4">
+            <div class="row mt-5 footer">
+                <div class="col-lg-4" color="white">
                     <h3>Need help with<br>
                         anything?</h3>
                         <img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png"  width="26.79068946838379px";
@@ -289,16 +287,9 @@
         
   </main>
   <footer>
-    <!-- place footer here -->
   </footer>
-  <!-- Bootstrap JavaScript Libraries -->
-  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
-    integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous">
-  </script>
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js"
-    integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous">
-  </script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 </body>
 
 </html>
